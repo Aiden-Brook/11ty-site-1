@@ -1,0 +1,24 @@
+{
+  "name": "11ty-site-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aiden-Brook/11ty-site-1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aiden-Brook/11ty-site-1/issues"
+  },
+  "homepage": "https://github.com/Aiden-Brook/11ty-site-1#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^4.0.0"
+  }
+}
